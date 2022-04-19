@@ -26,5 +26,6 @@
     "prepublishOnly": "napi prepublish -t npm",
     "test": "ava",
     "version": "napi version"
-  }
+  },
+  "repository": "https://github.com/Cphayim/napi-cool.git"
 }

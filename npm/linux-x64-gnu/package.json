@@ -15,6 +15,7 @@
   "engines": {
     "node": ">= 10"
   },
+  "repository": "https://github.com/Cphayim/napi-cool.git",
   "libc": [
     "glibc"
   ]
